@@ -20,10 +20,6 @@ We have also provided a python script version of simulation HM08 which is meant 
 mpirun -n 4 python3 HM08_hemisphere_eversion.ipynb
 ```
 
-# Movies
-
-<br/><br/>
-
 ![](https://github.com/ericstewart36/hardmagnetics/blob/main/example_animation.gif)
 
 # Citations
